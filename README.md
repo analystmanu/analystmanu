@@ -42,6 +42,8 @@
 ---
 
 ## 📊 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=analystmanu)](https://github.com/analystmanu/github-readme-stats)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=analystmanu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
