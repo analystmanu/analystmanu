@@ -1,4 +1,4 @@
-# 💫 About Me
+Hey, I am Manu Sharma
 
 - 🔭 I’m currently working on **building end-to-end data pipelines that collect, clean, and transform large datasets, as well as creating interactive dashboards to generate actionable insights**.
 
