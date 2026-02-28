@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python programming, Pandas, SQL, data cleaning, ETL automation, data visualization with Streamlit/Plotly, and building dashboards for business insights**.
 
-- 📫 How to reach me: **business.manusharma@gmail.com | [LinkedIn](https://linkedin.com/in/analystmanu)**
+- 📫 How to reach me: **manuvsharma2@gmail.com** 
 
 ---
 
