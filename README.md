@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Azure Data Factory, Azure Data Lake Storage, Azure Synapse Analytics, Databricks, PySpark, Parquet, CETAS, Medallion Architecture (Bronze → Silver → Gold), building end-to-end data pipelines that collect, clean, and transform large datasets, as well as creating interactive dashboards to generate actionable insights**.
 
-- 🌱 I’m currently learning **advanced SQL techniques, cloud data storage and retrieval (AWS/GCP), and production-level data engineering practices including modular, scalable pipelines**.
+- 🌱 I’m currently learning **advanced SQL techniques, cloud data storage and retrieval (Azure/GCP/AWS), and production-level data engineering practices including modular, scalable pipelines**.
 
 - 👯 I’m looking to collaborate on **open-source data projects, ETL pipelines, workflow automation tools, and interactive data visualization dashboards**.
 
